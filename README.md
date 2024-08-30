@@ -1,0 +1,1 @@
+https://learn.microsoft.com/en-gb/training/modules/create-composable-bicep-files-using-modules/4-exercise-create-use-module?pivots=cli
